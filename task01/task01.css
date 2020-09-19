@@ -1,0 +1,32 @@
+@charset"utf-8"
+body{
+	font-family: sans-self;
+}
+
+h1{
+	font-size:25px:
+}
+thumbnail{
+	width: 30%;
+}
+
+a{
+	color:#0073bc;
+}
+
+a:hover{
+	color:#b7dbf2;
+}
+a:active{
+	color:#4ca4e8;
+}
+section{
+	margin:bottom: 10px;
+}
+table{
+	border-collapse: collapse;
+}
+th,td{
+	border: 1px ;
+	margin: 8px;
+}
